@@ -14,6 +14,7 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 * Retraction: How birds outperform humans in multi-component behavior, Sara Letzner, Onur Güntürkün, and Christian Beste, Current Biology Magazine, 2017. https://doi.org/10.1016/j.cub.2017.07.056
 * Characterization of Leptazolines A–D, Polar Oxazolines from the Cyanobacterium Leptolyngbya sp., Reveals a Glitch with the “Willoughby–Hoye” Scripts for Calculating NMR Chemical Shifts, Jayanti Bhandari Neupane, Ram P. Neupane, Yuheng Luo, Wesley Y. Yoshida, Rui Sun, and Philip G. Williams, Organic Letters, 2019. https://doi.org/10.1021/acs.orglett.9b03216
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
+* A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
 
 ## Collections
 
