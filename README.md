@@ -43,5 +43,6 @@ If you use this work, please credit/cite it and the [authors](./AUTHORS.md).
 1. [Fork](https://github.com/danielskatz/errors-due-to-research-software/fork) and clone the repository
 2. Create a new branch: `git checkout -b my-branch-name`
 3. Make your change
-4. Push to your fork and [submit a pull request](https://github.com/danielskatz/errors-due-to-research-software/compare)
-5. Pat yourself on the back and wait for your pull request to be reviewed and merged.
+4. Optionally add yourself to the AUTHORS.md file
+5. Push to your fork and [submit a pull request](https://github.com/danielskatz/errors-due-to-research-software/compare)
+6. Pat yourself on the back and wait for your pull request to be reviewed and merged.
