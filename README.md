@@ -1,7 +1,7 @@
 # Errors due to research software
 This repo is a list of papers and articles that discuss errors in research due to software errors.
 
-Please feel free to make additions, keeping the lists in chronologic order (by year), and formatting entries similarly to exisiting ones (title, author, publisher, year. DOI/URL). See the [contributing guidelines](https://github.com/danielskatz/errors-due-to-research-software/edit/main/README.md#contributing) below.
+Please feel free to make additions, keeping the lists in chronologic order (by year), and formatting entries similarly to exisiting ones (title, author, publisher, year. DOI/URL). If you want to add a comment as well, feel free, but please indent it as shown in "A Scientist's Nightmare" entry.  See the [contributing guidelines](https://github.com/danielskatz/errors-due-to-research-software/edit/main/README.md#contributing) below.
 
 ## Papers / articles related to research software
 
