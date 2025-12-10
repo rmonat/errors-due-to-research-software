@@ -20,11 +20,11 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 * Notice of Retraction. Aboumatar et al. Effect of a Program Combining Transitional Care and Long-term Self-management Support on Outcomes of Hospitalized Patients With Chronic Obstructive Pulmonary Disease: A Randomized Clinical Trial. JAMA. 2018;320(22):2335-2343, Hanan Aboumatar and Robert A. Wise, JAMA. 2019. https://doi.org/10.1001/jama.2019.11954
 * A case for open communication of bugs in climate models, made with ICON version 2024.01, Proske, U., Brüggemann, N., Gärtner, J. P., Gutjahr, O., Haak, H., Putrasahan, D., and Wieners, K.-H., EGUsphere, 2024.  https://doi.org/10.5194/egusphere-2024-3493
 
-## Papers / articles related to general software as used in research
+## Papers / articles related to general software as used in research (eg, Excel-related errors)
 
 * Covid: how Excel may have caused loss of 16,000 test results in England, Alex Hern, The Guardian, 2020. https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england
 
-## Collections
+## Papers / articles that collection multiple failure examples
 
 * Bits and Bugs: A Scientific and Historical Review on Software Failures in Computational Science, Thomas Huckle and Tobias Neckel, SIAM, 2019. https://doi.org/10.1137/1.9781611975567
 
