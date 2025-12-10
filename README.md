@@ -27,7 +27,6 @@ Please feel free to make additions, keeping the lists in chronologic order (by y
 ## Papers / articles that collection multiple failure examples
 
 * Bits and Bugs: A Scientific and Historical Review on Software Failures in Computational Science, Thomas Huckle and Tobias Neckel, SIAM, 2019. https://doi.org/10.1137/1.9781611975567
-
 * EuSPRIG Spreadsheet Horror Stories, European Spreadsheet Productivity & Risks Interest Group. https://eusprig.org/research-info/horror-stories/
 
 ## About this repository
